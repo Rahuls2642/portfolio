@@ -16,17 +16,17 @@ export const Projects = () => {
       title: 'Portfolio Website',
       description: 'A modern portfolio website with animations and responsive design',
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
-      tags: ['React', 'Tailwind CSS', 'Framer Motion'],
+      tags: ['React', 'Tailwind CSS'],
       liveLink: '#',
-      githubLink: '#'
+      githubLink: 'https://github.com/Rahuls2642/portfolio26'
     },
     {
-      title: 'Task Management App',
-      description: 'A collaborative task management application with real-time updates',
-      image: 'https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
-      tags: ['React', 'Firebase', 'Material-UI'],
-      liveLink: '#',
-      githubLink: '#'
+      title: 'Weather App',
+      description: 'A responsive web application that provides real-time weather information for any city worldwide. The app fetches weather data using a public API and displays current conditions such as temperature, humidity, wind speed',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7LThne1oiSixSMi-C6LWIa2H4B460mP07g&s',
+      tags: ['HTML','CSS','Java script'],
+      liveLink: 'https://weatherapp2642.netlify.app/',
+      githubLink: 'https://github.com/Rahuls2642/Weather'
     }
   ];
 
